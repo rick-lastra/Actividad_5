@@ -1,0 +1,9 @@
+# Archivos que genera MLflow al ejecutar (no se suben; las capturas van en la entrega)
+mlflow.db
+mlruns/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Archivos que Windows agrega al copiar a WSL
+*Zone.Identifier
